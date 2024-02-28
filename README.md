@@ -17,6 +17,6 @@ classDiagram
     class EnemyController {
         - chaseSpeed: float 
         - target: Transform 
-        + void Update()
+        - void Update()
     }
 ```
