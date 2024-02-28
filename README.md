@@ -1,4 +1,4 @@
-# 05-Mermaid-MGA
+# 05-Mermaid-MGaisberger
 
 ```mermaid
 classDiagram
